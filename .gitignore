@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Model files and data
+models/
+*.bin
+*.pth
+*.onnx
+*.pt
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+data/
+datasets/
+
+# Logs and temporary files
+logs/
+*.log
+temp/
+.ipynb_checkpoints/
+*.csv
+*.json
+*.jsonl
+
+# API keys and secrets
+.env
+secrets.yaml
+config.ini
+credentials.json
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Documentation
+docs/_build/
+site/
+
+# Local development
+local_settings.py
+db.sqlite3
