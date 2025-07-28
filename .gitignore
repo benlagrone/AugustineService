@@ -16,6 +16,8 @@ parts/
 sdist/
 var/
 wheels/
+output/
+translate/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -45,7 +47,7 @@ models/
 *.joblib
 data/
 datasets/
-
+output/
 # Logs and temporary files
 logs/
 *.log

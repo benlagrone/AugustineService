@@ -1,0 +1,990 @@
+Aurelii Augustini
+De Genesi ad litteram imperfectus liber
+CPL 2681
+ 
+1
+This translation was made by Isabella Image and released by her into the public domain in 2020. This is revision 4 of the 
+translation, with minor edits by Roger Pearse. The Latin text (PL34, col. 219) may be found online here. Another, very 
+literal, English translation may be found online here. The text may also be found in CSEL 28, p. 457-503.
+2
+AUGUSTINE
+The Literal Interpretation of Genesis: Unfinished Book
+[Translated by Isabella Image]
+Augustine attempts to interpret the book of Genesis in light of the science of his day
+Introduction
+(1.1) When we deal with the mysteries of Nature (which, we believe, is God Almighty’s 
+workmanship), our methodology should be to ask questions rather than to make claims.
+This is particularly true when we study these mysteries using Scripture, which is divinely
+authoritative. If we arrogantly make claims based on our questionable, debatable opinions, 
+then it is hard to avoid committing blasphemy; but if we ask questions, our investigation 
+necessarily remains within the bounds of the catholic faith.
+A great many heretics interpret divine Scriptures according to their own beliefs in 
+contradiction to catholic teaching; so before I tackle the subject of this book, I must briefly 
+present the catholic faith.
+(1.2) It is as follows. The Almighty Father God made the whole of creation, and established it 
+through his only-begotten Son (who was his Wisdom and Power, consubstantial and coeternal with him), and united with the Holy Spirit (who is himself consubstantial and coeternal with them).
+Catholic teaching bids us to call this Trinity one single God, who made and created all 
+things which exist (where they really do exist). Every created being was made by God, not 
+from God’s nature, but out of nothing [ex nihilo]; this holds whether it is spiritual or bodily 
+(or, to put it more simply in the words of divine Scripture, ‘whether invisible or visible’).
+Creatures have nothing in common with the Trinity, except that they are exactly as the 
+Trinity made them to be. That it is why it is wrong to say or believe that any part of creation 
+shares God’s substance or is co-eternal with him.
+(1.3) Everything which God made is excellent; there is definitely nothing which is evil by 
+nature. Everything called ‘evil’ is either sin or the punishment for sin. And sin is merely our 
+free will assenting inappropriately, when we incline towards something righteousness 
+forbids and which we could freely abstain from. Put differently, sin is not in things
+themselves, but in using them the wrong way.
+Using things the right way is when the soul remains under God’s law and submits to 
+God alone with complete love; and when the soul keeps control over her domain without
+being possessive or infatuated, i.e. the way God requires it. That way, the soul will keep 
+order extremely smoothly and happily, with no problems or stress.
+The punishment of sin is for the soul to be tortured when other things are not under 
+her control, just as she herself is not under God’s; things obey the soul when she herself 
+obeys God. Fire is not bad, because it was created by God; but we are fragile and it burns us, 
+due to our sin.
+3
+Still, sins can be called ‘natural’ because we cannot help committing them once 
+sinful free choice in this life has made us fall – until we encounter God’s mercy.
+(1.4) Humankind was restored through Jesus Christ our Lord, when God’s unutterable and 
+unchangeable Wisdom deigned to assume an entire human, and be born of the Holy Spirit 
+and Mary the virgin; to be crucified, buried and rise again, and to ascend to heaven (which
+he had made). He will come to judge the living and the dead at the end of the age, at the 
+fleshly resurrection of the dead which is yet to come. The Holy Spirit is given to those who 
+believe in him. He established Mother Church; she is called ‘catholic’ [universal] because she 
+is universally perfect, she never falters, and she is scattered throughout the whole world.
+Previous sins are forgiven to those who repent, and they are promised eternal life and the 
+kingdom of heaven.
+Interpretations of Scripture
+(2.5) As we investigate and debate whatever we can in this book [Genesis], we must do so in 
+keeping with the aforementioned creed.
+In the beginning, God made heaven and earth... Those who have studied Scripture have 
+handed down four methods of interpretation: according to history, allegory, analogy, and 
+aetiology. I will give the Greek words, and define and explain them in Latin. ‘History’ means 
+actual deeds (either by God or by men) are described; ‘allegory’ means that the words are 
+to be understood symbolically; ‘analogy’ is when parallels between the Old and New 
+Testaments are shown; and ‘aetiology’ is when the reasons for phrases or facts are given.
+The beginning (Gen. 1:1)
+(3.6) So with this text, in the beginning God made heaven and earth, we should ask whether 
+this should only be interpreted in a historical-literal way; whether it also means something 
+symbolic; how it agrees with the Gospel; and why the book starts like this.
+Let’s start with history. We should ask whether ‘in the beginning’ refers to the 
+beginning of time, or the beginning of God’s Wisdom itself. After all God’s Son called himself 
+the ‘beginning’, when he was asked Who are you? and he answered, I the Beginning, am 
+speaking to you [Jn. 8:25]. There is a ‘Beginning un-begun’ and a ‘Beginning which had a 
+beginning’. Only the Father is ‘Beginning un-begun’, and it is our faith that all things come 
+from one sole Beginning. In the Son’s case, he is Beginning but he came from the Father.
+(Indeed, the first intellectual creature can be called ‘beginning’ of God’s creatures:
+she is their head [Prov. 8:22]. It is appropriate to call a beginning ‘head’; the Apostle used 
+the same ranking system when he said that women are not anyone’s head. He said that man 
+is the head of woman, and Christ is the head of man, and God is the head of Christ [1Cor. 
+11:3], and thus every creature is ranked under God.)
+(3.7) Does In the beginning indicate that heaven and earth were made first? If the angels 
+and all spiritual beings were made first, can’t heaven and earth have been included at this 
+first stage? We must believe that angels are part of God’s creation too, and that he made 
+4
+them. In Psalm 148 the Psalmist is including the angels when he says: He gave the order, and 
+they were made; he commanded and they were created [Ps. 148:5].
+Assuming the angels were made first, then were they made within time; or before all 
+time; or at the start of time?
+If they were made within time, then there was a time before any angels existed; and 
+because time too is created, this implies something was created before the angels. If we say 
+they were made at the start of time, and that time began with them, then this disproves the 
+hypothesis that time began when heaven and earth started.
+(3.8) But if the angels were created before time, then what does this later text mean?: And 
+God said, let there be heavenly bodies in the vault of heaven to illuminate the earth, and 
+divide night from day, and to indicate times and days and years [Gen. 1:14]. One could 
+presume time began at that point, when the sky and the luminaries began to run their 
+prescribed orbits. But in that case, days existed before time did! Time arises from the orbit
+of the luminaries, but Scripture says they were not made until the fourth day.
+Was the sequence of so-called ‘days’ merely a necessary narrative device? That is 
+how divine concepts are introduced to simple mortals: every discussion has to have a 
+beginning, middle and end.
+Or does it mean the luminaries were actually created within time? Humans measure 
+time by how long it takes for physical bodies to move. If there were no luminaries moving, 
+then there was no time of this sort; and this is the meaning of ‘time’ most obvious to 
+humans. Granted, but then we should ask whether time could be measured by the 
+movement of unbodily creatures (like the soul, or the mind itself) rather than in the 
+movement of physical bodies. The mind ‘moves’, of course, when it thinks, and therefore 
+has different states ‘before’ and ‘after’. This can only be understood as a time interval.
+If we accept this, then we can deduce time did exist before the heaven and earth as 
+long as angels were made first. Then there were already creatures with non-bodily 
+movements, which implies time existed. If this logic applies for the human soul (despite it 
+being accustomed to bodily movements due to its bodily senses) then it applies all the more 
+for the angels. But then again, perhaps the angels and higher beings did not exist before 
+heaven and earth?
+This is all quite baffling and impossible for humans to understand. But at any rate 
+and whatever the explanation, we must certainly take the following statement on trust even 
+if is beyond us: every creature had a beginning, and time itself is created and had a 
+beginning, and time is not co-eternal with the Creator.
+Heaven and earth (Gen. 1:1)
+(3.9) The phrase ‘heaven and earth’ may designate everything created.
+It could be that ‘heaven’ refers to the visible vault of the sky as well as the part of 
+creation encompassing the invisible higher powers, while ‘earth’ refers to the lower part of 
+the world inhabited by animals.
+Alternatively, ‘heaven’ refers to all the beautiful invisible creatures, and ‘earth’ of 
+course to all the visible ones; that would be another way that the text In the beginning God 
+created heaven and earth can be understood as referring to the whole of creation. Of 
+course, if the invisible part of creation is being called ‘heaven’ then perhaps it is quite 
+5
+appropriate to call visible creatures ‘earth’ to distinguish them. Indeed, the soul is invisible; 
+but even that is called ‘earth’ when it lusts for visible things or gloats at getting them. As 
+Scripture says, What do earth and ash have to be proud about? [Sir. 10:9].
+(3.10) But we can ask: did the phrase heaven and earth refer to everything already marked 
+out and assembled? Or was the writer referring to the shapeless primordial matter, which at 
+God’s unarticulated command was later assembled into the present well-arranged forms?
+(It’s true that Scripture tells us You made the world from shapeless matter [Wis. 11:18]. But 
+it was still God who created that matter, regardless of what form it took -- because our 
+creed and belief tell us he created everything.)
+In that case, ‘world’ means that he composed and arranged each individual thing 
+that had to be shaped and set apart. So in fact ‘heaven and earth’ refers to the primordial 
+matter which is the embryo of heaven and earth. The ‘heaven and earth’ were all muddled 
+and mixed together as it were, ready for the Creator God to shape things out of it.
+Everything I’ve said so far about the phrase In the beginning God made heaven and 
+earth is only a hypothesis; it would be arrogant to claim for certain what it truly means.
+‘The earth was invisible’ (Gen. 1:2)
+(4.11) Now the earth was invisible and formless, and there was darkness over the abyss; and 
+God’s Spirit passed over the waters.
+Heretics who reject the Old Testament tend to throw scorn on this passage, saying 
+“How did God make heaven and earth in the beginning, if the earth already existed!?” They 
+don’t realize that this part was put in to explain ‘earth’ in the previous sentence. This is how 
+we should take it: the ‘earth’ God ‘made’ was invisible and shapeless until God himself 
+disentangled it and transformed it from a muddle into an ordered system.
+Alternatively, a better way to understand this may be that the same primordial 
+material from the first sentence (there called ‘heaven and earth’) is mentioned again in the 
+next one. So the sentence God made heaven and earth means he made an earth which was 
+invisible and formless with darkness over the abyss. In other words, it refers to a muddle of 
+matter, from which the world was created when the two great parts (namely heaven and 
+earth) were separated and configured as they are now. Ordinary people should understand 
+a reference to this jumbled primordial matter whenever words like ‘invisible’ earth are used, 
+or ‘unformed’ or ‘disordered’ or ‘unprepared’, or ‘shadows above the abyss’ – ‘abyss’ means 
+an immense depth. (Or perhaps it was called ‘abyss’ because it is impenetrable for anyone 
+to understand, due to being shapeless.)
+‘Darkness above the abyss’ (Gen. 1:2)
+(4.12) And there was darkness above the abyss. Does this mean there was an abyss below 
+and darkness above, like two different places?
+Alternatively, since Scripture is still explaining the jumbled matter – which is called 
+chaos in Greek – does the phrase mean that there was no light yet? If there had been it 
+certainly would have been higher up, to be more obvious and to lighten what was below. In 
+fact, anyone considering carefully what darkness is will realize it is merely the absence of 
+6
+light; so the phrase darkness was over the abyss is the same as saying ‘there was no light 
+over the abyss’. That explains why this primordial matter (which God subsequently 
+disentangled and structured) was called an ‘invisible’ and unformed’ earth, and a ‘depth’ 
+with no light. When it was called ‘heaven and earth’ earlier, this meant the embryo of 
+heaven and earth, as I have already said.
+Or again, by ‘heaven and earth’ the writer may have wished to denote creation as a 
+whole, so that he could describe the underlying matter first and then go on to discuss the 
+individual parts.
+‘Water’ (Gen. 1:2)
+(4.13) And God’s Spirit passed above the water. It has not yet said that God made the water.
+Still, we should certainly believe that God made the water, and that it did not exist before 
+he made it. He is the one from whom and through whom and in whom all things come [Rom. 
+11:36], as the Apostle says. So God made the water, and it is a huge mistake to believe 
+otherwise.
+But why doesn’t it say that God made the water?
+Is water included in the primordial matter which he called ‘heaven and earth’ and 
+‘invisible unformed earth’ and ‘abyss’? (It might just as well be called ‘earth’ as ‘water’, 
+because at this point earth had not been disentangled and shaped, and neither had anything 
+else.)
+But perhaps there is a reason why it was called ‘heaven and earth’ the first time, 
+‘unformed earth and dark abyss’ the second time, and ‘water’ the third time. The first 
+phrase ‘heaven and earth’ points to the all-encompassing scope of the underlying matter, 
+made of absolutely nothing [ex nihilo] for this purpose. The second phrase (‘unformed earth 
+and abyss’) suggests its shapelessness, because earth is the least defined of the elements 
+and reflects light the least. The third phrase suggests the matter when subjected to the 
+Craftsman’s work; water is more pliable than earth, so when worked by Craftsman the 
+matter was called ‘water’ rather than ‘earth’ to suggest it was easy to work and mould.
+(4.14) Admittedly air is more pliable than water; and indeed we can reasonably assume that 
+ether is even more pliable than air. But ‘air’ and ‘ether’ are less appropriate words to 
+describe matter. These two elements are more active than passive, whereas the reverse is 
+the case for earth and water. This may not be immediately apparent, but it is I think
+extremely obvious that wind moves water, and occasionally parts of earth too; yet wind is 
+just air moving in ebbs and flows. And air obviously moves water; but it is unclear what 
+moves air, to make it wind. So who would doubt that pliable matter is better called ‘water’ 
+(which is movable) rather than ‘air’ (which moves other things)? To be moved is to undergo 
+an action, but to move something else is to perform an action.
+In addition, anything that grows in earth needs water to sprout and thrive; it almost 
+seems as if water is transformed into sprouting plants.
+In summary, ‘water’ is a better name for the primordial matter than ‘air’ because it 
+suggests something that the Craftsman could work on, which is pliable and transforms into 
+sprouting bodies. The word ‘air’ only indicates pliability and not the primordial matter’s 
+other properties, so this matter it is better expressed with other terms.
+7
+So the whole meaning is as follows: In the beginning God made heaven and earth
+(i.e. primordial matter which could take the form of heaven and earth); and the matter was 
+invisible and unformed earth (i.e. it was an unshaped depth with no light); and when the 
+Craftsman worked on it and moulded it, it was called water because it yielded to being 
+modelled.
+(4.15) So with the phrases Scripture uses for this primordial matter, the first suggests the 
+purpose for which it was made; the second its shapelessness; and the third the fact that the 
+Craftsman uses it and works on it. That is why it is first called ‘heaven and earth’ (because 
+they were made from this matter), secondly ‘invisible unformed earth and shadows above 
+the abyss’ (i.e. shapeless and without light, which explains why it is ‘invisible’), and thirdly 
+‘water’ (which the Spirit will work on to give it form and shape).
+Thus God’s spirit passed over the water: we should understand the ‘spirit’ as doing 
+the crafting and ‘water’ as the material being crafted, since it is workable.
+If we want phrases that describe the same matter in three ways – that it will make 
+the world, is shapeless, and is workable – then the first is well expressed by heaven and 
+earth; the second by darkness, chaos, depth, shadows; and the third by malleability so that 
+the Craftsman’s Spirit can pass over it and fashion it.
+‘The Spirit passed’ (Gen. 1:2)
+(4.16) And God’s Spirit passed over the water. It did not ‘pass over’ like oil on water or water 
+on the earth, where the liquid is contained. If physical analogies are to be used, then a 
+better one is that it passed like sunlight or moonlight over the bodies they illuminate. These 
+bodies do not contain the light; the sky contains the light, which ‘passes over’ the bodies.
+Also, we should be careful not to think that God’s Spirit ‘passed over’ the primordial 
+matter like through physical space. Rather, it was like a power that creates and crafts what 
+it passes over, the way a craftsman’s intention passes over wood or whatever he is working 
+on – or indeed over his own limbs as he moves them to do the work.
+This last simile is better than any other physical one, but it is still poor, indeed almost 
+useless in explaining how God’s Spirit ‘passes’ while fashioning the world-matter. But I can’t 
+think of a better or closer analogy for this out of things more or less intelligible to humans.
+For this kind of reflection we do best to stick to Scripture: Bless the Lord and exalt him as 
+much as you can; he shall always pass over you [Sir. 43:30].
+All this applies if the ‘spirit of God’ in this passage means the Holy Spirit, whom we 
+honour as a member of the indescribable and unchangeable Trinity.
+(4.17) But we could also understand this reference a different way. ‘God’s spirit’ could mean
+a created thing – the breath of life – which fills this entire visible world and all bodily things, 
+and gives them motion; God Almighty gave it a power to serve him by working in things that 
+reproduce. It is not unreasonable to call this spirit or breath ‘God’s’ because it is even more 
+excellent than any of the luminaries (invisible created things always come before visible 
+ones). After all, what is not God’s? He made everything, even the earth itself: The earth is 
+the Lord’s and everything in it [Ps. 23:1]. The following text embraces the whole cosmos: For 
+all things are yours, O Lord who loves souls [Wis. 11:27].
+8
+It only works to take ‘spirit’ this way if the words In the beginning God made heaven 
+and earth refer to the visible creation. Then this invisible spirit or breath can be understood 
+as moving over the raw material as it was first fashioned into visible things. But this spirit 
+was itself created – not God, but a nature made and established by God.
+However, if we take the word ‘water’ as denoting all creation whether spiritual, 
+animal, or bodily, then the words ‘God’s spirit’ here can only be understood as the 
+unchanging Holy Spirit: it ‘passed over’ the matter underlying all things which God then 
+made and established.
+(4.18) There could be a third possibility about this ‘spirit’ [breath], which is that the word 
+designates the element air; the text thus indicates the four elements of the visible world, 
+namely sky, earth, water, and air. These elements were not yet separated and arranged, but 
+the terminology indicates they would arise from that matter although it was currently 
+unshaped and muddled. The unshaped muddle was described with the words ‘shadows’ and 
+‘abyss’.
+At any rate, whichever of these various theories is correct, we must believe that God 
+created and fashioned all things, whether visible or invisible. He made their natures, but he 
+did not make their faults (which are contrary to nature). There is no creature whatsoever
+which is not begun and completed in him, in terms of both its species and individual 
+substance.
+‘And God said...’ (Gen. 1:3)
+(5.19) God said, Let there be light; and there was light.
+When God said ‘let there be light’, we should not think of his speech as a sound 
+coming from the lungs or from tongue or teeth. This is a fleshly way of thinking, but the
+mind governed by the flesh is death [Rom. 8:6]. Rather, the words ‘let there be light’ were 
+spoken without being articulated aloud.
+Next, let us ask whether the words were spoken to the Only-Begotten Son, or 
+whether the words were themselves the Only-Begotten Son; after all he is called God’s 
+Word, through whom all things were made [Jn. 1:2]. At the same time, we should avoid the 
+sacrilege of believing that the Only-Begotten Son God’s Word is a sound like the ones we 
+humans articulate. No! God’s Word – through whom all things were made – has neither 
+beginning nor end. He was begotten, but had no beginning because he is co-eternal with the 
+Father.
+So the phrase ‘let there be light’ is more likely to have been spoken by the Son than 
+to have been the Son, since it began and then ended. On the other hand, it was spoken 
+without being articulated; we should not imagine something physical, and trouble our 
+devout awareness that this is a spiritual occurrence. It is arrogant and dangerous to believe 
+that anything in God’s nature actually begins and ends (however, we must be charitable and 
+excuse fleshly people or small children if they do believe this – as long as they don’t remain 
+in error, but grow from there). Whenever God is said to ‘begin’ or ‘stop’ something, it 
+should on no account be taken as referring to his own nature but rather to that of his 
+creature, who submits to him admirably.
+Light (Gen. 1:3)
+9
+(5.20) And God said, Let there be light.
+Does this mean the light which is visible to our bodily eyes, or a hidden one which we 
+can’t physically see? And if it is hidden, then is it: physical, spreading through space in the 
+world’s higher planes; unbodily, like the one in the soul, which investigates the world 
+through the bodily senses so as to know what to avoid and what to pursue (even animals 
+have this kind); or the higher light which we perceive by contemplation, the beginning of all 
+creation [Prov. 8:22]?
+At any rate, we must believe this ‘light’ was made and created. God’s own Wisdom 
+[the Son] is a shining light, but one that was begotten rather than made; otherwise we’d 
+think God had no light before the one he created, which is the one we are now talking 
+about.
+(5.21) People are often concerned about how there could have been physical light before 
+the sky or its luminaries existed, since these are only mentioned later. As if it were easy – or 
+indeed at all possible – for humans to ascertain whether there was some other light beyond 
+the sky, when it is in different places and scattered through space and surrounds the world!
+But at any rate, the words ‘let there be light’ could also include unbodily light – since this 
+book [Genesis] deals with all of creation, not just visible creation. So we don’t need to waste 
+any more time on this issue.
+Another option is that the light here refers to the angels; people sometimes ask 
+when they were made. If so the mention is somewhat concise, but it is not inappropriate or 
+unsuitable to refer to angels like this.
+Light and darkness (Gen. 1:4)
+(5.22) God saw that the light was good. We should not understand this sentence as meaning 
+God had some unexpected pleasure, but that he was pleased with his work. The most 
+helpful way to speak of God is with language humans use amongst themselves, like ‘he said, 
+he made, he was pleased’. ‘He said’ reveals his command; ‘he made’ reveals his power; ‘he 
+was pleased’ reveals his goodness. These indescribable things had to be expressed 
+somehow, by one human [the writer] for other humans, so that everyone could benefit
+from them.
+(5.23) And God separated the light from the darkness. This shows us how easy it was for God 
+to accomplish his work! No-one would think that light was created mixed up with darkness, 
+and needed separating as a subsequent stage. Rather, the act of creating light naturally led 
+to darkness as a separate thing. For what fellowship does light have with darkness [2Cor. 
+6:14]? God separated light from darkness inasmuch as he made light, and its absence is 
+called darkness. The relationship between light and darkness is the same as that between 
+clothing and nakedness, or being full and being empty, and other such examples.
+(5.24) Earlier I discussed various ways of understanding ‘light’. The absence of these can be 
+called kinds of ‘darkness’.
+10
+Firstly, there is the physical light seen by our physical eyes. Examples include light 
+from the sun, moon, stars, and so on; its corresponding darkness is when any physical place 
+has no light.
+Secondly, there is a light which animals use for perception and for distinguishing 
+signals which the body sends the mind to be assessed: black and white, melodious and 
+discordant, fragrant and foul-smelling, sweet and bitter, hot and cold, and so on. (The light 
+perceived by the eyes is different from the one which uses the eyes for perception; the 
+former is physical, but the latter is in the mind, even though it uses the body to perceive). 
+The corresponding ‘darkness’ is a sort of lack of perception or (more accurately) of feeling –
+an inability to sense, even when objects are present that could be sensed by those who do 
+have the perceptive light. This is not a physical deficiency as with blind or deaf people, since 
+their minds still have the type of light we’re currently discussing despite their physical 
+disability. Nor is it like when a sound cannot be heard in the midst of silence, because in this 
+case the mind still has the perceptive light and the physical ability, but does not pick up 
+anything. In these instances, perceptive light is not missing. Rather, it is missing when the 
+mind cannot sense – although then it can’t be called a ‘mind’ really, just a living thing like a 
+vine or a tree or any plant, if indeed plants can be said to ‘live’ in the same sense. (Actually 
+some heretics think, although it is utterly ridiculous, that plants not only have physical 
+senses – namely seeing, hearing, sensing temperature and heat – but even have rational 
+thought and can think like we do! But that’s another issue entirely.) Thus lack of perception 
+is the ‘darkness’ corresponding to the light of perception, and it occurs in living things with 
+no sense faculty.
+(If light is defined as something that brings clarity to things, that still applies for this 
+particular light. When we say ‘this is clearly a melody, this is clearly sweet, this is clearly 
+cold’ or the like, then what makes these clear is a light; it is definitely in the mind, even 
+though it is the body which perceives the sense-objects.)
+A third kind of light can be understood in creatures – the one by which we reason. Its 
+corresponding ‘darkness’ is the lack of reason, like the minds of animals.
+(5.25) Regardless of the type of light (whether it was in the upper ether, or was the 
+perception-light used by minds, or the reasoning-light possessed by angels and men), this 
+text tells us that light was the very first thing created. We should accept that God 
+distinguished light from darkness by the very act of creating light, since light is one thing and 
+its absence quite another. God decreed this absence should be the ‘darkness’.
+It does not say anywhere that God created the darkness. God created actual things; 
+he did not create absences, which are part of the nothingness from which the divine 
+Craftsman drew all things. However, although he did not create absences, the phrase ‘God 
+separated the light from the darkness’ teaches us that he did give them a place. God 
+manages and governs everything, even the absence of things!
+In singing, there are silent pauses at fixed points; skilled singers place them properly 
+and they contribute to the charm of the whole piece of music, even though they are an 
+absence of sound. In painting, shadows help to bring out the highlights, and give pleasure 
+not because they are shadows per se but because of the way they are placed. God did not 
+create our faults, but he gave them a place when he condemned sinners and made them 
+suffer what they deserve. This is also illustrated by parable of the sheep put on the right and 
+the goats on the left [Mt. 25:33]. God both created and gave a place to the former; the 
+latter were merely given a place. The righteous he both creates and gives a place to; as for 
+11
+sinners, he does not create them to be sinners, but merely gives them a place. Of course, 
+when he put the former on the right, and the latter on the left and ordered them into the 
+eternal fire, this illustrates the place they deserve. In conclusion, actual things and natures 
+he both creates and places; he does not however create absences or deficiencies, but only 
+gives them a place.
+So he said: ‘Let there be light!’, and there was light. He did not say ‘Let there be 
+darkness’, resulting in darkness. God made the former but not the latter; he only gave it a 
+place, when he separated darkness from light. The things he created are beautiful 
+individually; and his placement of things is beautiful as a whole.
+Day and night (Gen. 1:5)
+(6.26) God called the light ‘day’, and the darkness he called ‘night’. The names ‘light’ and 
+‘day’ refer to the same thing, and the names ‘darkness’ and ‘night’ refer to the same thing.
+We should deduce two names were given so that the thing in question could be designated 
+with either name (obviously). So it says God called the light ‘day’ but you could just as well 
+say it the other way round: “God called the day ‘light’, and the night he called ‘darkness’”.
+Someone might ask me: was the light given the name ‘day’, or was the day given the 
+name ‘light’? (Both are certainly names, inasmuch as both are words used to designate 
+things.) Likewise one could ask about the other two terms: was the darkness given the name 
+‘night’, or was the night given the name ‘darkness’? Scripture settles the matter: clearly, 
+light was given the name ‘day’ and night was called ‘darkness’.
+When Scripture says God made the light and separated the light from the darkness, 
+the terminology was not yet important. Afterwards the names ‘day’ and ‘night’ were given.
+(Admittedly ‘light’ and ‘darkness’ are also names which designate things.) Should we assume 
+that these things could not be designated with their first name, so another was needed?
+No; the separation of light and darkness was the reason for this new terminology.
+Not all light is day, nor is all darkness night. But when light and darkness are separated and 
+put in their respective places alternating with each other, then they are called ‘day’ and 
+‘night’. The very point of any word, of course, is to distinguish it from other things. (Indeed, 
+the word ‘name’ [nomen] comes from the fact that it ‘marks out’ things [notare], as if with 
+their own ‘mark’ [notamen]; it ‘marks out’ a thing in the sense that it distinguishes it, and 
+helps anyone mentioning it to identify it.) So perhaps the act of calling the light ‘day’ and 
+the darkness ‘night’ itself was the separation of light and darkness: giving them names was 
+the same as allocating them their places.
+Another possibility is that the later terms were meant to specify what exactly which 
+light and darkness were being referred to. It’s as if Scripture were saying: “God made light; 
+he divided light from darkness; the light in question was the day, and the darkness in 
+question was the night. Don’t think that any other type of light or darkness are being 
+referred to here.” After all, if every light was ‘day’ and every darkness could be thought of as 
+‘night’ then there would be no need for the statement God called the light ‘day’ and the 
+darkness he called ‘night’.
+(6.27) This begs the question what exactly was meant by ‘day’ and ‘night’. There’s no way 
+this could refer to the day which lasts from sunrise to sunset, or to the night which lasts 
+12
+from sunset until sunrise, since the luminaries in the sky had not yet been created! Or 
+maybe the appropriate time periods could still be called ‘days’ and ‘nights’ even when not 
+demarcated by light and darkness?
+Alternatively, if ‘light’ here refers to the light of reason or the light of perception, 
+how does it alternate in the way suggested by the words ‘day’ and ‘night’? Maybe it 
+indicates not what was happening but what could happen, inasmuch as error can follow 
+reason, and dullness can follow perceptiveness?
+Evening and morning (Gen. 1:5)
+(7.28) And evening was made, and morning was made: one day. This is a different kind of 
+day from earlier; this one is a day in the sense as when for example we say that a month has 
+thirty days. This definition of day includes nights, whereas earlier ‘day’ was the opposite of 
+night. The text suggests that God made day while it was light, so accordingly the text 
+continues by saying evening was made and morning was made: one day. This ‘one day’ is 
+the period from the start of one day until the start of the next, i.e. from daybreak to 
+daybreak; as I mentioned, we include nights when we define days in this way.
+But how were evening and morning made? When God made light and separated 
+light from darkness, did that take a time span as long as our daylight hours (excluding night
+time)? But then why does Scripture say: You can do anything the moment you wish to [Wis.
+12:18], if God needs a period of time to get things done?! Isn’t it more likely that God 
+skilfully and rationally accomplished it all, not over some time period, but with the same 
+power he used to create things which we experience as transient while himself remaining 
+anchored!?
+When we talk, words pass and others follow. In the art of oratory, on the other hand,
+the whole speech is present in its entirety, anchored in the orator’s mind. Similarly God 
+creates from outside time (since ‘he can do anything the moment he wishes to’), but 
+temporal creatures still pursue their business within time. So perhaps the words ‘Evening 
+was made and morning was made, one day’ anticipate that this logically should or could be 
+the case, and are not a comment on the time that passed. [The writer of Ecclesiasticus] 
+applied this same logic when contemplating on God’s creation while divinely inspired; this is 
+why it says: The One who dwells in eternity created everything instantaneously [Sir. 18.1].
+In the current book [Genesis] however, the story helpfully proceeds as if God created 
+things in steps, one after the other. We weaker souls cannot take in the process all at once;
+the narrative is arranged in steps so that we may visualize it as if before our eyes.
+The vault (firmament) (Gen. 1:6)
+(8.29) And God said, “Let there be a vault between the waters, and let it divide the waters 
+from each other.” And it was done: and God made the vault, and divided the waters below 
+the vault from the waters above it.
+Are the ‘waters’ above the vault the same as physical water below the vault? This 
+appears to be the same ‘water’ which the Spirit passed over, and which we interpreted as 
+13
+the world’s primordial matter. So should we here take it that the vault divided up this 
+‘water’, with physical matter below, and spiritual matter above? For what he calls ‘vault’ 
+here, he later calls ‘sky’. But there is no body more noble than the ones in the sky. Bodies on 
+earth and in the sky are completely different [1Cor. 15:40]. And of course, the latter are
+more noble: they are the most excellent natures that can still be called a physical body.
+(There is a possible exception if we count as a ‘body’ the rational capacity that we 
+use to recognize God and Truth. It would be appropriate for Holy Scripture to call this 
+‘water’ because it seems almost material, inasmuch as it may be shaped when we are 
+righteous and sensible, and this gives it an alertness which stabilizes it and prevents it from 
+being volatile. Despite being here on earth this mental capacity is better than the bodies in 
+the sky, because it is incorporeal.)
+He called the vault ‘sky’ [‘heaven’]; everything there is calm and stable, so logically 
+we can interpret anything below it as more likely to change and disintegrate.
+There used to be some who believed that the surface of the sky was made up of 
+actual cold water, until physical matter of this sort was separated into individual forms and 
+designated as ‘under the vault’. They tried to prove it from the fact one of the seven planets 
+is slower than the others [Saturn]. It is higher than the others, and is called Phainōn in 
+Greek, and takes thirty years to trace its orbit through the zodiac; they claim it is slow 
+because it is closer to the cold waters which are above the sky. I have no idea how they can 
+defend their hypothesis against astronomical experts. One should not arrogantly state 
+theories like this; they should all be researched carefully and sensibly.
+‘And it was done’ (Gen. 1:7)
+(8.30) And God said, “Let there be a vault between the waters, and let it divide the waters 
+from each other.” And it was done...
+After saying ‘it was done’, why did the writer need to add: And God made the vault, 
+and divided the water which was below the vault from the water which was above the vault?
+Earlier the writer said, And God said ‘Let there be light’, and there was light; but he didn’t 
+then add, “And God made light”. But here, after he said God said ‘let there be’... and there 
+was..., he then adds that God did it.
+Does this indicate that light should not be thought of as physical, which is why God 
+(by which I mean the Trinity) created it without the intermediary of another creature; 
+whereas the sky’s vault, being physical, can be assumed to have received its nature and 
+shape via some spiritual intermediary? Under this theory, as a first stage Truth imprinted 
+the sky’s vault onto something spiritual using Reason, and this imprint was then reproduced 
+in the physical realm. That could explain the words, And God said ‘let it happen’... and it was 
+done; it may have been made first on a rational being, and then that was used to make the 
+physical vault.
+(9.30) But it also adds: God made the vault, and divided the waters below the vault 
+from the waters above it. Does this refer to God working the primordial material himself to 
+make the physical sky? Or was it just for variety that the writer put here something different 
+from before – to avoid the narrative becoming boring? We shouldn’t over-analyze the text!
+Take your pick; but just don’t be arrogant and claim you know things you don’t. Remember
+you are only human, and that you only investigate God’s handiwork because he lets you.
+14
+‘God saw it was good’ (Gen. 1:8)
+(9.31) And God called the vault ‘sky’. I have already discussed the issue of God naming 
+things, and it applies here too: not every vault is the same as the sky.
+And God saw that it was good. I could just repeat what I said earlier on this phrase, but I 
+realize the narrative comes in a different order. Earlier it says God saw the light was good, 
+and then that God divided the light form the darkness; and God called the light ‘day’ and the 
+darkness he called ‘night’. But here, the phrase God saw that it was good comes *after* the 
+statement that vault was made, and was called ‘sky’.
+Unless the writer is just varying the text to avoid being boring, we must definitely 
+take this in the sense that God ‘created everything instantaneously’ [Sir. 18:1]. The first 
+time, he saw something was good and then named it; so why does it say here he acted the 
+other way round? The similarity must mean that God works outside time (even though 
+these precise creations are subject to time!) A narrative has to be told in stages with one 
+thing happening and then the next, but God achieved it all instantaneously.
+And there was evening, and there was morning: the second day. I have dealt with this above, 
+and I believe the same logic holds here too.
+The appearance of the dry places (Gen. 1:9-10)
+(10.32) And God said, Let the waters under the sky gather together in one mass, and let dry 
+places appear. And it was done. 
+This makes it more likely that the ‘water’ mentioned earlier is the primordial matter, 
+as I thought. If the cosmos was full of real water, where could it gather from, and where 
+would it go? But if the writer used the word ‘water’ to refer to the muddle of primordial
+matter, then this ‘gathering’ must refer to the act of forming it into the physical water which 
+we recognize. And the phrase ‘let dry places appear’ can be understood as land being 
+formed, to give it the appearance which we recognize. Before it was formed into individual 
+shapes, the primordial matter was called invisible and disordered. So God’s words ‘Let the 
+water under the sky be gathered’ meant the physical matter should be rendered into the 
+substance water that we see.
+In one mass. The key property of any form is expressed by this word ‘one’. Forming 
+something means exactly that it is reduced into a single thing. After all, every form begins 
+with the One who is above all things.
+And let the dry land appear. In other words ‘let it take a visible appearance’, distinct 
+from the muddled primordial matter. It makes sense that water ‘gathered’ so that dry 
+places could appear; in other words, fluid matter is held back in order to reveal things that 
+were hidden.
+And thus it happened. Perhaps it ‘happened’ first in the intellectual or rational realm.
+In this case the subsequent phrase is not superfluous (with the words ‘thus it happened’ 
+being followed by ‘the water gathered together in one mass and the dry land appeared’); 
+rather, it indicates that the physical things were created after rational and spiritual ones.
+15
+(10.33) And God called the dry place ‘land’, and the gathering of water he called ‘sea’. These 
+names are given to help us out. Not all water is sea, and not every dry place is land; so the 
+words were needed to specify which water and which dry place were meant. Further, it is 
+reasonable to suggest that when God named them, this was the same as the very act of 
+distinguishing and shaping them.
+And God saw that it was good. This phrase comes in the same position as before; so 
+my observations elsewhere on this phrase apply here too.
+Plants (Gen. 1:11-13)
+(11.34) And God said, Let the earth bring forth different kinds of plants to eat, each bearing 
+seed like it, and fruit trees bearing fruit containing seed like it.
+Earlier the earth and sea were made and named and endorsed (although I have 
+frequently pointed out we should take all this as instantaneous, because God’s indescribable 
+actions do not happen at separate points in time).
+After this, it does not say straightaway There was evening, and there was morning, 
+the third day, as it had for the two previous days. Instead, there is an another action: God 
+said, Let the earth bring forth different kinds of plants to eat, each bearing seed like it, and 
+different kinds of fruit trees bearing fruit containing seed like it.
+Nothing like this was said for the light or vault, for the water or dry part. Light does 
+not propagate, nor is sky born of sky, nor do earth and sea generate other seas and earths 
+to follow after them. But in this case each new generation continues the species of the old 
+one, so it was necessary to say ‘each bearing seed like it’, and ‘different kinds’.
+(11.35) All these things are connected to the earth by the roots, somehow continuous with 
+the earth while still separate. So I think the narrative means that plants share their nature 
+with earth. The plants were created on the same day as the earth; but still, God spoke a 
+second time to make the earth sprout.
+Also, the text again says ‘and so it happened’, and then after that (following the 
+same rule as previously with this phrase) we are also told that it actually happened; and 
+then again it says, God saw it was good. In all, earth and plants are connected by being 
+created on one day, and God’s usual statements separate this day from the ones on either 
+side. This was not done for the earth and sea, but I think it was done here to mark plant 
+natures more clearly, in that they sprout and die and thus need to reproduce.
+Or alternatively [another reason why God may have given two commands]: earth 
+and sea could be made immediately -- not only their rational, spiritual creation where 
+everything happens instantaneously, but even in their physical activity. But trees and plants 
+could not sprout unless there was already earth for them to sprout in. Is that why God gave 
+two commands – to distinguish the creation of earth from that of plants, while at the same 
+time they had to be on the same day because plants are continuous with the earth and fixed 
+by the roots?
+We should also query why God did not name them. Did he miss this out because 
+there were too many of them to make it practicable? It is better to consider this later, when 
+we discuss the other things that God did not name (unlike the light, the sky, the earth and 
+the sea).
+And there was evening, and there was morning: the third day.
+16
+The luminaries (Gen. 1:14-15)
+(12.36) And God said, Let there be luminaries in the sky’s vault, and let them illuminate the 
+earth, and separate the day from the night; and let them indicate signs and times, days and 
+years; and let them shine in the sky’s vault, and illuminate the earth.
+The words ‘let them indicate days’ refer to the luminary bodies which were created 
+on the fourth day. So how could three days have passed without them? Why are they 
+needed to indicate days, if days could exist without them?
+Was it so that humans could mark the passage of time more easily by the movement 
+of the luminaries?
+Or does the count of days and nights serve to distinguish between things and their 
+absence, so ‘morning’ refers to specific natures God has made and ‘evening’ refers to their 
+absence? All natures are beautiful and lovely inasmuch as God made them; but they can fail, 
+because they were made from nothing [ex nihilo]. If they prosper it is not because of their 
+underlying matter (since they were made from nothing) but because of the Most Highest, 
+who made every species and put them in their place.
+(12.37) And God said, Let there be luminaries in the sky’s vault to bring illumination. Does 
+this only refer to the fixed stars, or does it include the planets? The ‘greater’ and ‘lesser’ 
+luminary [the sun and moon] certainly do not count as fixed. The planets each have their 
+own individual sphere and orbit, so how can they all have been made in the vault?
+Or alternatively: we read in Scripture of sky in the singular and skies in the plural; 
+here ‘sky’ and ‘vault’ are singular. So should we take this section as meaning the whole 
+edifice of heaven which contains all the stars? Below it reigns a peaceful atmosphere, pure 
+and calm; and below that again, on our level, rough stormy winds.
+...to illuminate the earth, and to separate day from night... Surely God has already separated 
+light from darkness, and has already called the light ‘day’ and the darkness ‘night’? So it 
+seems he had already separated day and night! Why does it now say the luminaries were to 
+separate day from night?
+Maybe the luminaries separate them now, so that humans can see them using their 
+physical eyes? God did separate day and night before the luminaries’ orbits of course, but 
+few humans realize this, if guided by the Holy Spirit and calm logic.
+Or alternatively, maybe God earlier separated a different ‘day’ and ‘night’: maybe he 
+separated the individual forms he had stamped from the rest of the primordial matter which 
+had not yet been shaped? This is different from the day and night in the current passage, of 
+course: they alternate as the sky rotates, and only exist because the sun rises and sets.
+(13.38) ...and let them indicate signs and times, days and years.
+I reckon the word ‘times’ explains the word ‘signs’; we should take them as meaning 
+the same thing. Time involves distinct periods but points to a changeless eternity beyond.
+The writer calls it a ‘sign’; in other words time hints at eternity!
+He explains ‘times’ by adding days and years. Days occur by the revolution of the 
+fixed stars. The years we know best are expressed as the sun follows its course through the 
+zodiac. The orbit of each planet makes its own year too, although these are not as well 
+17
+known. Perhaps he does not say ‘months’ because a month is the moon’s year. There are 
+twelve of these to the sun’s year (the Greeks call the sun Phaeton), and there are thirty sunyears to Phainōn’s [Saturn’s] year. And when all the stars have returned to the same place, 
+then the ‘Great Year’ will have passed. Many have spoken of it at length [Plato Timaeus
+39d].
+Or maybe signs are for showing the true route when navigating ships, but times are 
+seasons like spring, summer, autumn and winter (these too change with this cycle of the 
+stars, and each has its place and order)? Days and years should still be taken as I already 
+suggested.
+(13.39) And let them shine in the sky’s vault, and illuminate the earth. Above it already said: 
+Let there be luminaries in the sky’s vault, to illuminate the earth. So why was this repeated?
+For plants it said that they should produce seed to reproduce similar plants of the same 
+species. Maybe it is the opposite here. For the luminaries he says Let it happen... and let 
+them be.... In other words they do not reproduce, but are themselves what they are.
+And so it happened. This phrase comes in its usual position.
+Sun and moon (Gen. 1:16-19)
+(13.40) God made two lights, a greater light to start the day, and a lesser light to start the 
+night, and the stars.
+I shall discuss in a moment what it means to ‘start’ the day or night. But the extra bit 
+about the stars is unclear: do they also command the night, or not? Some think this means 
+the moon was created as a full moon, because the full moon rises at the start of the night 
+(i.e. straight after the sun has set). But this is ridiculous, because then we are beginning to 
+count half way through the month rather than at the beginning.
+Nor is there any validity in the argument that it must have been a full moon because 
+it would have been created complete; it is always complete, but this is only visible to 
+humans when they are facing the part directly opposite the sun. The sun determines what 
+we see. When the moon is below the sun it looks as if it is waning, but it is still a complete 
+moon; it is merely being illuminated from another direction which cannot be seen by those 
+below, i.e. living on earth. This is hard to describe concisely, and needs detailed 
+explanations and diagrams.
+(13.41) God placed them in the sky’s vault, to give light to the earth. Earlier it said ‘let them 
+be in the vault’, so why does it now say, ‘God made the luminaries and placed them in the 
+vault’? It’s as if they were made elsewhere and put in the vault at a later point, although he 
+had already said that they were there!
+Yet again this may suggest that God does not create the way humans do, but it was 
+narrated in the only way possible for humans. In other words, for humans ‘making’ and 
+‘placing’ are different things, but for God they are the same thing: he places when he 
+makes, and makes when he places.
+(13.42) And let them rule over the day and night, and separate the day from the night.
+Previously it said ‘to start the day’ and ‘to start the night’. This is now explained with the 
+18
+phrase Let them rule over the day and night. So we should understand ‘start’ as meaning 
+they predominate; after all, in the daytime there is nothing brighter than the sun, and at 
+night nothing is brighter than the moon or stars. This also resolves the ambiguity about the 
+stars: they were placed to ‘start the night’, i.e. they too predominate at night.
+And God saw that was good. This in the same position as before.
+I should mention of course that God had still not given them names. It could have 
+said ‘God called the luminaries ‘stars’’, but not every luminary is a star.
+(13.43) And there was evening, and there was morning: the fourth day. If you count a day as 
+marked out by sunrise and sunset, this is not the fourth but perhaps the first day! We 
+humans count this as the time it took for the sun to rise (when it was created) and then set 
+(when the other stars were made). But the sun is elsewhere at night, and there is night 
+elsewhere when the sun is with us; once one realizes this, one can track the days of creation 
+in a more profound way.
+Water (Gen. 1:20-23)
+(14.44) And God said: Let the waters produce living reptiles, and flying creatures above the 
+earth under the sky’s vault. And so it happened. Animals that swim are called ‘reptiles’ 
+[‘crawling creatures’] because they have no legs; or maybe because they crawl under water, 
+on the bottom.
+Do we include fish (whether scaly or not) among the flying creatures, since they 
+propel themselves by their wings [fins]? I don’t think they can be counted as birds here. In 
+fact, it’s a moot point why birds are produced by ‘waters’ and not ‘air’. I can’t accept this 
+passage is only talking about water-birds, like diverbirds, ducks, and so on. If the writer only 
+meant these, he would have mentioned other birds elsewhere; and some birds are so far 
+from water that they never even drink.
+Perhaps the writer is calling the air nearest to the earth ‘water’, because of the damp 
+dew on clear nights, and the fact it condenses into clouds. A cloud is just water, as everyone 
+knows if they have travelled through mountain fogs, or through mists in fields. This is 
+precisely the air that birds fly in. They cannot actually fly in the higher, cleaner zone that 
+people refer to as air; it is too thin to bear their weight.
+Up there, it is claimed, there are no clouds or turbulence. The summit of Mount 
+Olympus is reportedly higher than the zone of damp air; there is so little wind at that level 
+that religious pilgrims write letters in the dust, and find them unspoiled and intact when 
+they climb the legendary mountain again a year later.
+(14.45) The phrase ‘sky’s vault’ in divine Scripture can reasonably be taken as including this 
+upper zone, so that the calmest, purest air is part of the vault. In fact the very word ‘vault’ 
+can symbolize this calm, and most other such things.
+I reckon that’s why it says in several psalms: And your truth reaches down to the 
+clouds [Ps. 35.6; Ps. 56.11]. There is nothing more stable or peaceful than Truth! Clouds on 
+the other hand condense below the calmest zone of air. The Psalmist is speaking 
+metaphorically, but his language is based on parallels with real things; so it is appropriate to 
+symbolize Truth as an unchanging, pure bird in the zone between the sky’s summit and the 
+clouds (i.e. the gloomy, turbulent, damp air). It is practical to call this lower air ‘water’; so it 
+19
+is practical to say that birds who fly above the earth but below the sky’s vault belong to the 
+‘waters’.
+We can also deduce why nothing has been said about how or when air was created: 
+the lower zone of air is included as ‘water’, and the upper zone as the ‘vault’, so nothing 
+important has been missed out.
+(14.46) We took ‘let the waters gather’ as referring to the primordial muddled matter, and 
+God called this gathering the ‘sea’. But someone might object: If this is so, then how do we 
+understand this air made later, which can be called ‘water’ but is not called ‘sea’?!
+I suppose the phrase Let dry places appear involves not only the earth but also the 
+heavier parts of our air. The earth is illuminated through this air, so we can see it. So this 
+one phrase ‘let them appear’ implies everything needed for the dry places to appear: the 
+dry land itself, and the waters exposing it, and the air pouring over it, and the light passing 
+to it through the air from the world’s upper zones.
+Or maybe the words let the waters gather refers to the lower air, because it creates 
+water when it condenses? Perhaps ‘gathering waters’ and ‘sea’ merely refer to the 
+condensation of air. Under this theory, any air that did not ‘gather’ is lighter and floats 
+above; this too is ‘water’, which can carry birds as they fly. It can be called either lighter 
+water or heavier air. But why does it not say when this was done?
+Or maybe it is true what some claim: evaporation of moisture off the sea and earth 
+makes the winds heavier than the fluid air above, so that they can support the flight of 
+birds; but of course this condensed ‘water’ is lighter than the water we wash with, so that 
+by comparison we experience it as dry, like air from the upper zone. Earth and sea had 
+already been mentioned, so there was no need to speak of what evaporates from them (i.e. 
+the ‘waters’ used by birds) since we already knew that the cleanest, calmest air belongs to 
+the vault.
+(14.47) Nothing is said about how springs and rivers were made. Experts in these things say 
+that a fine mist evaporates unseen from the sea as air blows over it, and rises imperceptibly.
+It is this that condenses into clouds. Next the rain falls on the earth and gathers in hidden 
+cavities; when enough is soaked up, it is forced out through various channels and bursts out 
+in springs – some small, others large enough to create rivers.
+They say a proof of this is that if one collects the steam of cooked seafood in a 
+curved pan-lid, then the distilled liquid is sweet to the taste. And it’s obvious to just about 
+everyone that springs dry up when there is no rain. 
+Scripture testifies to it too, when Elijah interceded for rain during a drought. He 
+ordered Elisha to wait for him by the sea while he prayed. When the latter saw a tiny cloud 
+rising up, he told the anxious king that rain was on its way. The king ran away, but the rain 
+soaked him as fled [1Kgs. 18:41-6]. Elsewhere David says: Lord, you summon the sea-water, 
+and pour it upon the face of the earth [Am. 5:8, 9:6].
+All in all, it would have been superfluous to mention other waters once he had 
+named the sea. This includes those that bring dew, and the lighter ones that make air for 
+birds to fly through, and those of springs and rivers – since the latter evaporate, and in turn 
+the former burst out when rain is absorbed by the earth.
+‘Creeping animals’ and ‘flying creatures’ (Gen. 1:24)
+20
+(15.48) Let the waters produce reptiles, living animals. What is the point of adding ‘living 
+animals’? All animals are alive! Maybe the writer is trying to emphasize that sentient 
+animals have a more obvious type of life than plants do.
+...and the flying creatures above the earth, below the sky’s vault. Birds don’t fly in the 
+purest ether, where there are no clouds, so that air clearly belongs to the vault; because it 
+says the birds fly above the earth below the sky’s vault.
+And it was done. This phrase comes in the same position as before. It comes after 
+every section, except for the creation of light at the beginning.
+(15.49) And God made great whales and different kinds of creeping animal which the waters 
+produced, and all kinds of winged flying creature. I have already mentioned that ‘every kind’ 
+refers to creatures which reproduce sexually, although last time it referred to grasses and 
+trees.
+...and all kinds of winged flying creature. Why does it add ‘winged’? Are there any 
+flying creatures that don’t have wings? (If there are, God certainly made them; but then why 
+doesn’t it say when they were made?) But there isn’t anything that can fly without wings.
+Even creatures without feathers still have wings, like bats and locusts and flies. The text 
+adds the word ‘winged’ to teach us this is not only about birds. Fish have wings [fins], and 
+can fly ‘above the earth’ while underwater. That is why it does not refer to birds but to 
+flying creatures in general: winged flying creatures.
+And God saw it was good. This should be interpreted in the same way as elsewhere.
+‘Increase and multiply’ (Gen. 1:22)
+(15.50) And he blessed them, saying: Increase and multiply and fill the waters of the sea; and 
+let the flying creatures multiply above the earth. 
+This blessing was intended to make the creatures fertile and produce offspring. They 
+were created fragile and mortal, but by this blessing each species would be preserved 
+through new births. But why didn’t he bless the plants, since they too sprout and die? Is it 
+because they have no senses, and thus certainly no reason?
+Perhaps there is a reason why God used the second person at the start of the 
+blessing, so as somehow to command these animals as if they could hear what he was 
+saying: Increase and multiply, and fill the waters of the sea! But he does not use the second 
+person at the end of the blessing, which continues: and let the flying creatures multiply upon 
+earth (not a command: ‘you flying creatures, multiply!’). Perhaps this indicates that animal 
+perception does not have enough reasoning to understand commands well, unlike humans 
+who can understand and reason.
+(15.51) And so it happened. This should wake up anyone too dull-witted to have realized 
+what kind of day we’re talking about!
+God fixed each animal’s pattern of reproduction, and it is amazing how consistent 
+this is across generations: each species has a set number of days for pregnancy or to brood 
+their eggs. This natural law is kept constant by God’s wisdom, which reaches with power
+from one end of the earth to the other, and orders all things well [Wis. 8:1].
+21
+Since this is the case, how could they have conceived, become pregnant, given birth, 
+and nourished their young to fill the sea and multiply on the land – all on one day?! After all, 
+we are told ‘it happened’ before evening had even arrived!
+Without doubt, when it says ‘there was evening’ it is referring to unformed matter; 
+when he says there was morning, it refers to the form stamped onto that matter by God’s 
+action. This completes the day that has passed after the action takes place. However, God 
+did not say ‘let there be evening’ or ‘let there be morning’. The text is merely referring 
+shorthand to what was created, and the words ‘evening’ and ‘morning’ symbolize the 
+matter and form of whatever God has of course already made.
+Created things have the fundamental defect that form tends to chaos and to 
+nothingness. If I was right that all this is implied by the word ‘night’, we should note that 
+night was not made by God but given a place, as indicated above: God separated the light 
+from the darkness. So the word ‘evening’ symbolizes the unformed matter, which is made 
+from nothing [ex nihilo] but still exists, and can take on various shapes and forms. We can 
+also take the word ‘darkness’ as referring to complete nothingness. God did not make it, but 
+in his unspeakable goodness he made from it whatever he thought fit. He made everything 
+out of nothing, which is what makes him Almighty! 
+(15.52) And there was evening, and there was morning: the fifth day. After the words And so 
+it happened, the writer did not follow his usual practice and add a description of it 
+happening; it would have looked as if were happening twice, since it had already been 
+mentioned.
+Moreover the blessing to produce offspring did not create any new beings; God 
+merely preserved the things he had already created, through regeneration.
+That is also why it does not say, ‘And God saw that it was good’. We already know he 
+was pleased at the newly-created natures, and this section is only about them being 
+preserved through their young. So he did not repeat anything here except the words and so 
+it happened, and immediately added the words about the evening and morning. I have 
+already said that these symbolize how the unformed matter was worked and stamped with 
+a form. (Perhaps other scholars can come up with a better or more profound explanation 
+than this.)
+The beasts of the earth (Gen. 1:24-5)
+(15.53) And God said, Let the earth produce different kinds of living animal: quadrupeds, and 
+serpents, and different kinds of beasts of the earth, and different kinds of livestock. And so it 
+happened.
+Why was the word ‘living’ added to the word ‘animal’? What does ‘different kinds’
+mean? What is meant by the usual ending ‘and so it happened’? I discussed these questions 
+earlier; the same answers should be consulted and applied here. 
+The word ‘beast’ designates all irrational animals in general, but here we should 
+distinguish the types. We should take ‘quadrupeds’ as being beasts of burden; ‘snakes’ 
+refers to all reptiles; ‘(wild) beasts’ refers to untamed quadrupeds; and ‘livestock’ refers to 
+quadrupeds which do not help humankind by working but still provide some benefit to 
+those who feed them.
+22
+(16.54) And God made different kinds of beasts of the earth, and different kinds of livestock, 
+and all kinds of snakes of the earth.
+This sentence starting And God made is merely a repetition of the previous one, 
+coming after And so it happened. The same rule as above applies. Of course, I think the 
+word ‘livestock’ includes all quadrupeds which are reared by humans.
+And God saw it was good. This should be understood in the usual way.
+‘Let us make humankind’ (Gen. 1:26-27)
+(16.55) And God said, let us make humankind in our image and likeness.
+We should note here that humans are both linked to and distinguished from other 
+animals. The text says he created humans on the same day as the beasts; all animals of the 
+earth are created at the same time. But humans have superior reason, which is why they are 
+said to be made in God’s image and likeness. Hence they are discussed separately, after the 
+words ‘God saw it was good’ which ended the section about other earthly animals.
+(16.56) Elsewhere God said ‘let there be... and it happened’, but here he said ‘let us make’: 
+we must reflect why. This was another way by which the Holy Spirit wished to indicate that 
+humans have superior natures.
+Who was he talking to when he said ‘let us make’? To the same One to whom he said 
+‘let it happen’! All things are made through him, and nothing was made without him [Jn.
+1:3].
+So why does he use different words here? I reckon ‘Let there be’ meant the Word 
+was carrying out the Father’s command himself, but ‘Let us make’ meant they were doing it 
+together. Or alternatively [another explanation]: The Father creates everything through the 
+Son, and Scripture was composed for humans. So did he say ‘let us make’ to show humans 
+that the Father participates in whatever he has told the Son to do – using their own creation 
+as an example? Elsewhere it says ‘let there be ... and it happened’, and I’ve explained that 
+the speech and the action occurred simultaneously; so is it the same here when it says ‘Let 
+us make’?
+Likeness (Gen. 1:26)
+(16.57) And God said, Let us make humans in our image and likeness. 
+Every image is ‘like’ its original, but not everything ‘like’ something is its image. For 
+example, mirror reflections and paintings are images, so they must be ‘like’ their originals; 
+but if two humans are like each other, they still cannot be called each other’s image (unless 
+one is the other’s child). So the word ‘image’ means it is a copy of something.
+But then why is the word ‘likeness’ used in addition to the word ‘image’? As if an 
+image could be unlike! It would have been enough to say ‘in our image’. Or is the answer 
+found in the fact that being ‘like’ something is different to the concept of ‘Likeness’? For 
+example, a chaste man is one thing, and Chastity another; a strong man is one thing, and 
+Strength another. Whatever is strong has Strength, and whatever is chaste has Chastity; so 
+whatever is like has Likeness.
+23
+Yet a picture of me cannot be called my exact ‘Likeness’, even if it really resembles 
+me. This Likeness makes things alike, just as Chastity makes things chaste. But Chastity is an 
+abstract concept which doesn’t need chaste things; to the contrary, chaste things need 
+Chastity in order to be chaste. God has that Chastity, and also Wisdom. Wisdom is not 
+Wisdom because of wise things, but to the contrary it makes other creatures wise when 
+they access it. So the ‘likeness of God’, through whom all things were made, is absolute 
+Likeness: it does not need things that are alike, but is itself absolute Likeness. 
+So all things that God made through his Likeness are themselves like each other.
+(16.58) Perhaps ‘likeness’ was added after ‘image’ as an clarification. It shows that the 
+image was not merely like God (i.e., participating in the concept of likeness) but that the 
+image was itself the absolute Likeness that makes all other things alike. This is similar to the 
+Chastity which makes chaste souls chaste, or the Wisdom which makes wise souls wise, or 
+the Beauty which makes beautiful things beautiful.
+If God had only said ‘likeness’, this would not have indicated that he generated it. If 
+God had only said ‘image’, we would understand he had generated it but there would be no 
+indication that it was not just ‘like’ but Likeness itself. We don’t say there is anything chaster 
+than Chastity itself, or wiser than Wisdom itself, or more beautiful than Beauty itself. In the 
+same way we don’t say anything is more like than Likeness itself; it cannot be conceived of, 
+and cannot occur.
+From this we can deduce that the Father is so like his Likeness that he permeates its 
+nature completely and entirely.
+(16.59) Through God’s Likeness all things were made. How far was it involved in creating 
+different species of things? Admittedly this question is far beyond human understanding, 
+but we can still approach an answer by considering that every category and species of thing 
+(whether sentient or rational) is made up of similar individuals formed on a single model.
+Rational souls are called ‘wise’ because of God’s wisdom. This label ‘wise’ is not 
+applicable any further: we do not apply it to any beast, and far less to trees; nor to fire, air, 
+water, or earth (although all these things are certainly manifestations of God’s wisdom, 
+insofar as they exist). But when it comes to Likeness, we definitely say stones are like each 
+other, and animals, and humans, and angels. 
+This is true for individual categories too. Earth is earth, inasmuch as different 
+examples of it are alike. Water -- whatever its form and wherever it is – is like other cases of 
+it, and cannot be anything but water. Air, however different it is from other things, can 
+under no condition be different from air. Fire, even the tiniest spark of light, is what it is 
+because it is like other examples of it. For every single stone and tree and animal body, we 
+can see that it is only because each specimen is alike that they belong to a generic species, 
+and that they are themselves what they are. A specimen is thought ‘fine’ if it matches other 
+examples of its species.
+And of course similarity leads to happiness for souls. This occurs when a group of 
+souls are similar, and friendship arises through having similar interests. Also, an individual 
+soul cannot be steady unless activities and virtues are harmonized; this is a sign of the 
+happy life.
+Of course, all these things demonstrate likeness, but we can’t say they are Likeness 
+itself. A species is made up of things similar to each other: each one is what it is, but all 
+contribute to the whole, which God both established and continues to oversee. They were 
+24
+certainly made this way by God’s Likeness [the Word], which is why each one’s beauty 
+comes from being like its species. It was God’s Likeness who established everything; he is 
+unchanging and undefiled, and surpasses everything!
+However, creation in God’s Likeness refers only to rational beings, nothing else.
+Everything was created by God’s Likeness, but not in God’s Likeness.
+(16.60) Rational beings on the other hand were created by God’s Likeness but also in his 
+Likeness. No other nature stands between them: the human mind embraces only Truth itself 
+(although it only senses Truth when it is truly pure and blissful). That Truth is called the 
+Father’s ‘likeness and image’ and his ‘Wisdom’. So the words ‘Let us make humankind in our 
+image and likeness’ should be taken as referring to the innermost, most important part of 
+humans: their mind. The value of humans is in this most important feature, the part which 
+distinguishes us from the beasts. All other human features are certainly fine in themselves, 
+but they are shared with the beasts so we should downplay them in humans.
+Perhaps there is something to the belief that the human body itself is like God, since 
+humans stand upright to gaze at heaven. Humans are turned to heaven just as the absolute 
+Likeness is turned to his Father, and unlike other animals whose backs are to heaven as they 
+lie flat on their belly. Still, this theory is not entirely satisfactory. Our body is very different 
+from heaven, but the Likeness who is the Son cannot be different in any way from the One 
+he is similar to. Other things are similar within their species while still having differences;
+but there is nothing different in absolute Likeness.
+(All the same, the Father and the Son are still separate. True, the Son is called 
+‘Likeness’ to show there is no difference whatsoever between them; but at the same time 
+the word also indicates the Father is not by himself, because he has his Likeness with him.)
+Likeness: later thoughts (Gen. 1:26)
+Note: In Retractions 1.18, Augustine tells us he added 16.61-62 at a later date, but still could not bring himself 
+to finish the book beyond this.
+(16.61) And God said, Let us make humankind in our image and likeness.
+What I’ve already said is enough explain God’s words here, that the ‘likeness’ which 
+God made humans in can be understood as referring to God’s own Word, the Onlybegotten 
+Son. It certainly does not mean that humans *themselves* are the image and likeness, 
+equal to the Father. (Humans certainly are God’s image, as the Apostle Paul clearly indicates 
+when he says, Man should not cover his head, since he is God’s image and glory [1Cor. 11:7].
+But that image was made ‘in the image’; it is not equal and co-eternal with its prototype and 
+never could be, even if it were entirely sinless.)
+But we should take God’s words in another sense and realize that they were spoken 
+in the plural, not the singular: humans were made in the image not of just the Father, or just 
+the Son, or just the Holy Spirit, but of the Trinity itself. The Trinity is formed in such a way 
+that it is one God; and the one God is formed in a way so as to be Trinity. God did not say to 
+the Son ‘Let us make humankind in your image’, or ‘in my image’, but in the plural: ‘in our 
+image and likeness’. And given the plural, it would be rash not to include the Holy Spirit! But 
+this plural should be taken as indicating not three gods but One God, which is why Scripture
+next stated in the singular: ‘God made humans in God’s image’.
+25
+This is so we would not understand God the Father as making humans in the image 
+of Son. The words ‘in our image’ would be false if humans were only made only in the Son’s 
+image! No: God spoke the truth when he said ‘in our image’. So the words ‘God made 
+humans in God’s image’ mean the image of the Trinity itself.
+(16.62) Now, the term ‘likeness’ is not repeated; the text is not ‘And God made humans in 
+God’s image and likeness’. Some people think this is because humans were only made in his 
+‘image’, while ‘likeness’ to him is reserved afterwards for the resurrection of the dead. As if 
+it is possible to be the image of something without being like it! If something is not entirely 
+like its prototype, then obviously it is not an image. However, I am not just relying on 
+common sense here. We should also rely on the authority of the Apostle James; when he 
+spoke about human language he said: We bless God with it, and we curse humans with it 
+although they are made in God’s likeness [Jas. 3:9].
+** The End **

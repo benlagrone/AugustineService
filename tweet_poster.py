@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 AUGUST_URL = os.getenv('AUGUST_URL')
 FREUD_URL = os.getenv('FREUD_URL')
 
-character = "freud"
+character = "augustine"
 
 
 # Load environment variables from .env file

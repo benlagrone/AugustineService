@@ -1,10 +1,16 @@
 from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from llama_index.llms.ollama import Ollama
+from models import Query, TweetResponse, Query
+# from RAG import get_context 
 import json
 import random
+import sys
 import os
+from RAG import get_context
+from llm_router import get_llm_response
+from mysql_memory import store_chat_message, retrieve_chat_history
+import uuid  # Add this import for generating session IDs
 
 # Initialize FastAPI
 app = FastAPI(title="Augustine API")
@@ -18,13 +24,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Define the Query class
-class Query(BaseModel):
-    question: str
 
-class TweetResponse(BaseModel):
-    tweet: str
-    prompt: str
 
 def load_tweet_prompts():
     # Go up one directory from api/main.py to find tweet_prompts.json
@@ -63,6 +63,71 @@ tweet_llm = Ollama(
     temperature=0.7,
     max_tokens=100,
 )
+
+
+@app.post("/chat")
+async def chat_with_augustine(query: Query):
+    try:
+        # Use existing session ID if provided, otherwise create new one
+        session_id = query.session_id if query.session_id else str(uuid.uuid4())
+        user_id = "default_user"
+        
+        # Retrieve existing chat history for this session
+        chat_history = retrieve_chat_history(session_id)
+        
+        # Format previous conversations for context
+        conversation_context = ""
+        # In the chat endpoint, modify the context building:
+        if chat_history:
+            conversation_context = "Here's our conversation history:\n\n" + "\n".join([
+                f"{'Human' if msg['role'] == 'user' else 'Augustine'}: {msg['message']}"
+                for msg in chat_history[-4:]  # Get last 4 messages for context
+            ])
+            
+            if query.question.lower().strip() in [
+                "what did we discuss?",
+                "what did we talk about?",
+                "what did we discuss in our previous messages?",
+                "what was our previous conversation about?"
+            ]:
+                context = conversation_context
+            # In the chat endpoint:
+            else:
+                # Modified to explicitly request source citations and quotes
+                rag_context = get_context(query.question, author=query.persona)
+                context = (
+                    f"{conversation_context}\n\n"
+                    f"Relevant passages from my works:\n{rag_context}\n\n"
+                    "Please cite the specific work each quote comes from and explain its relevance to the question."
+                )
+        else:
+            # If no chat history, just use RAG context with quote request
+            context = (
+                f"Relevant background with original text:\n{get_context(query.question, author=query.persona)}\n\n"
+                "Please include relevant quotes from the provided text in your response."
+            )
+        
+        # Generate response
+        response = get_llm_response(
+            question=query.question,
+            context=context,
+            mode=query.mode,
+            persona=query.persona
+        )
+        
+        # Store both the new question and response
+        store_chat_message(user_id, session_id, "user", query.question)
+        store_chat_message(user_id, session_id, "assistant", response)
+        
+        return {
+            "response": response,
+            "session_id": session_id,
+            "chat_history": retrieve_chat_history(session_id)
+        }
+    except Exception as e:
+        print(f"\nError in chat endpoint: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+    
 
 @app.get("/tweet")
 async def generate_tweet():
