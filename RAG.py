@@ -2,6 +2,8 @@
 from llama_index.core import SimpleDirectoryReader, GPTVectorStoreIndex
 from llama_index.core import StorageContext, load_index_from_storage
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.core.settings import Settings
+Settings.llm = None
 
 # Use a specific embedding model
 embed_model = HuggingFaceEmbedding(model_name="sentence-transformers/all-MiniLM-L6-v2")
@@ -33,7 +35,8 @@ def initialize_index():
 index = initialize_index()
 query_engine = index.as_query_engine(
     response_mode="tree_summarize",
-    similarity_top_k=3
+    similarity_top_k=3,
+    llm=None
 )
 
 def get_context(query, author="Augustine"):

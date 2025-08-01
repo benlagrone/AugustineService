@@ -78,7 +78,7 @@ function App() {
   const sendMessage = async (messageText) => {
     setLoading(true);
     try {
-      const res = await axios.post('http://localhost:8080/chat', {
+      const res = await axios.post('/api/chat', {
         question: messageText,
         mode: mode,
         persona: persona,
