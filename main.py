@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
 from llama_index.llms.ollama import Ollama
 from models import Query, TweetResponse, Query
@@ -14,6 +14,10 @@ import uuid  # Add this import for generating session IDs
 
 # Initialize FastAPI
 app = FastAPI(title="Augustine API")
+
+
+api_v1_router = APIRouter(prefix="/api/v1")
+api_v2_router = APIRouter(prefix="/api/v2")
 
 # Add CORS middleware
 app.add_middleware(
@@ -64,8 +68,11 @@ tweet_llm = Ollama(
     max_tokens=100,
 )
 
+@api_v1_router.get("/health")
+async def health_check():
+    return {"status": "ok"}
 
-@app.post("/chat")
+@api_v1_router.post("/chat")
 async def chat_with_augustine(query: Query):
     try:
         # Use existing session ID if provided, otherwise create new one
@@ -224,6 +231,9 @@ async def ask_augustine(query: Query):
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
+
+app.include_router(api_v1_router)
+app.include_router(api_v2_router)
 
 if __name__ == "__main__":
     import uvicorn
